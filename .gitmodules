@@ -4,3 +4,6 @@
 [submodule "mysql_driver/src/mysql"]
 	path = mysql_driver/src/mysql
 	url = https://github.com/go-sql-driver/mysql
+[submodule "redis_driver/src/redigo"]
+	path = redis_driver/src/redigo
+	url = https://github.com/gomodule/redigo
