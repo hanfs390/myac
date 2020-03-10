@@ -1,3 +1,6 @@
 [submodule "mysql/src/mysql"]
 	path = mysql/src/mysql
 	url = https://github.com/go-sql-driver/mysql
+[submodule "mysql_driver/src/mysql"]
+	path = mysql_driver/src/mysql
+	url = https://github.com/go-sql-driver/mysql
